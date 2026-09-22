@@ -153,8 +153,8 @@ Executive Readability
 A viewer should be able to understand the main point of a visualization quickly without requiring extensive explanation.
 🛠️ Tools & Technologies
 The following tools should be listed in the repository only if they were actually used in the implementation:
-Data Analysis: [Add if used — e.g., Python / Pandas / Excel]
-Data Visualization: [Add if used — e.g., Matplotlib / Seaborn / Power BI]
+Data Analysis: [Excel and Phyton]
+Data Visualization: [ Matplotlib  and Power BI]
 Presentation: Data Visualization Presentation Deck
 Documentation: Markdown / GitHub README
 Note: Technologies should be updated to reflect the actual tools used to produce the analysis rather than assumed from the project description.
@@ -245,28 +245,6 @@ ecommerce-data-visualization-analysis/
 This project demonstrates the process of transforming raw e-commerce data into structured, business-oriented visual insight. By combining analytical thinking, appropriate chart selection, visual design principles, and data storytelling, the project provides a framework for communicating complex information clearly and efficiently.
 The emphasis throughout the project is on one fundamental principle:
 Good data visualization does not merely display data—it makes the underlying insight easier to understand and act upon.
-📌 GitHub Repository Description
-E-commerce data visualization and business insights project developed during my Data Analyst internship at Decode Lab.
-🏷️ GitHub Topics
-data-analysis
-data-visualization
-data-analytics
-ecommerce
-business-intelligence
-data-storytelling
-exploratory-data-analysis
-analytics
-business-analytics
-data-science
-💬 Professional Commit Message
-feat: add e-commerce data visualization analysis project
-Alternative:
 docs: add Decode Lab data visualization project and analysis
-🔗 LinkedIn Project / Internship Post
-Turning raw data into business-ready insight 📊
-As part of my Data Analyst Internship at Decode Lab, I worked on an E-commerce Data Visualization project focused on transforming approximately 1,200 order records into clear and meaningful business insights.
-The project explored revenue trends, product performance, order patterns, referral sources, payment methods, and order status while applying a question-driven approach to data visualization.
-A key focus of the project was not simply creating charts, but selecting the right visualization for the right analytical question—while maintaining accurate axes, minimal chartjunk, direct labeling, clear visual hierarchy, and action-oriented storytelling.
-This project strengthened my understanding of data analysis, visualization, business intelligence, and data storytelling, while giving me practical experience in communicating analytical information in an executive-friendly format.
-From raw data → analysis → visualization → insight.
+🔗 https://www.linkedin.com/posts/sumaiya-shakeel-1b53283a8_dataanalytics-eda-python-activity-7504921101223809027-ep9J?utm_source=share&utm_medium=member_android&rcm=ACoAAGO3PRkByxVzilaaTrnWF214ZMZo1sCgkXE
 #DataAnalytics #DataVisualization #DataAnalyst #EcommerceAnalytics #BusinessIntelligence #DataStorytelling #DecodeLab #Analytics #GitHub
